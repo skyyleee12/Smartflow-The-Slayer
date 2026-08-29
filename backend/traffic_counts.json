@@ -1,0 +1,408 @@
+{
+    "video_name": "temp_Traffic2.avi",
+    "average_density": 3.58,
+    "final_congestion_level": "LOW",
+    "frames_processed": 40,
+    "logs": [
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 0.0,
+            "vehicles": 0,
+            "density": 0.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:01:55"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 0.33,
+            "vehicles": 0,
+            "density": 0.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:01:57"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 0.67,
+            "vehicles": 3,
+            "density": 1.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:01:58"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 1.0,
+            "vehicles": 1,
+            "density": 1.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:01:59"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 1.33,
+            "vehicles": 4,
+            "density": 1.6,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:01"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 1.67,
+            "vehicles": 0,
+            "density": 1.6,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:02"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 2.0,
+            "vehicles": 3,
+            "density": 2.2,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:04"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 2.34,
+            "vehicles": 3,
+            "density": 2.2,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:05"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 2.67,
+            "vehicles": 2,
+            "density": 2.4,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:06"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 3.0,
+            "vehicles": 4,
+            "density": 2.4,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:06"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 3.34,
+            "vehicles": 0,
+            "density": 2.4,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:08"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 3.67,
+            "vehicles": 6,
+            "density": 3.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:09"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 4.0,
+            "vehicles": 6,
+            "density": 3.6,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:11"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 4.34,
+            "vehicles": 0,
+            "density": 3.2,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:12"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 4.67,
+            "vehicles": 4,
+            "density": 3.2,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:13"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 5.01,
+            "vehicles": 0,
+            "density": 3.2,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:14"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 5.34,
+            "vehicles": 0,
+            "density": 2.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:14"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 5.67,
+            "vehicles": 2,
+            "density": 1.2,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:15"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 6.01,
+            "vehicles": 2,
+            "density": 1.6,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:16"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 6.34,
+            "vehicles": 6,
+            "density": 2.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:17"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 6.67,
+            "vehicles": 7,
+            "density": 3.4,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:24"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 7.01,
+            "vehicles": 9,
+            "density": 5.2,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:25"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 7.34,
+            "vehicles": 4,
+            "density": 5.6,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:25"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 7.67,
+            "vehicles": 3,
+            "density": 5.8,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:26"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 8.01,
+            "vehicles": 5,
+            "density": 5.6,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:26"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 8.34,
+            "vehicles": 2,
+            "density": 4.6,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:26"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 8.68,
+            "vehicles": 4,
+            "density": 3.6,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:26"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 9.01,
+            "vehicles": 13,
+            "density": 5.4,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:26"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 9.34,
+            "vehicles": 4,
+            "density": 5.6,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:26"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 9.68,
+            "vehicles": 12,
+            "density": 7.0,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 10.01,
+            "vehicles": 0,
+            "density": 6.6,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 10.34,
+            "vehicles": 2,
+            "density": 6.2,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 10.68,
+            "vehicles": 2,
+            "density": 4.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 11.01,
+            "vehicles": 4,
+            "density": 4.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 11.34,
+            "vehicles": 11,
+            "density": 3.8,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 11.68,
+            "vehicles": 6,
+            "density": 5.0,
+            "congestion_level": "MEDIUM",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 12.01,
+            "vehicles": 1,
+            "density": 4.8,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 12.35,
+            "vehicles": 0,
+            "density": 4.4,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 12.68,
+            "vehicles": 5,
+            "density": 4.6,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:27"
+        },
+        {
+            "mode": "video",
+            "video_name": "temp_Traffic2.avi",
+            "timestamp_sec": 13.01,
+            "vehicles": 3,
+            "density": 3.0,
+            "congestion_level": "LOW",
+            "date": "2026-03-16",
+            "time": "21:02:28"
+        }
+    ]
+}
